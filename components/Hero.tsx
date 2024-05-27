@@ -23,7 +23,7 @@ const Hero = () => {
               words='Transforming Concepts into Seamless User Experiences'
             />
             
-            <p className='text-center md:tracking-wider mt-7 mb-4 text-sm md:text-lg lg:text-2xl'>Hi, I&aposm Harsh Pathak, a Java Developer studying at IIIT Jabalpur</p>
+            <p className='text-center md:tracking-wider mt-7 mb-4 text-sm md:text-lg lg:text-2xl'>Hi, I&apos; Harsh Pathak, a Java Developer studying at IIIT Jabalpur</p>
 
             <a href='#about'>
               <MagicButton
